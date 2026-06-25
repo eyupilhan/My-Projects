@@ -2,12 +2,21 @@
 
 This repository contains my early AWS, Flask, and DevOps practice projects completed during my learning journey.
 
-Larger and production-oriented projects have been moved to their own dedicated repositories as part of my GitHub portfolio.
+As my portfolio evolved, larger and more comprehensive projects were moved into their own dedicated repositories to improve organization and showcase production-oriented work.
 
-# My-Projects## Featured Project
+## Projects Included
 
-### AWS DevOps Capstone Project
+* Project01 – Flask Hello World
+* Project02 – Flask Jinja Templates
+* Project03 – Flask Routing
+* Project04 – Flask Forms (GET & POST)
 
-A highly available Django blog application deployed on AWS using VPC, ALB, Auto Scaling, EC2, RDS, S3, Lambda, DynamoDB, CloudFront and Route 53.
+## Moved to Dedicated Repositories
 
-Path: `Project10-AWS-Capstone`
+The following projects have been separated into standalone repositories:
+
+* **aws-devops-capstone-project**
+* **aws-ec2-static-website-cloudformation**
+* **flask-sql-email-app**
+
+These repositories are maintained separately as part of my professional GitHub portfolio.
